@@ -1,0 +1,15 @@
+/Users/chitboon/avp/P1/IPChecker/bin/Debug/net5.0/IPChecker.deps.json
+/Users/chitboon/avp/P1/IPChecker/bin/Debug/net5.0/IPChecker.runtimeconfig.json
+/Users/chitboon/avp/P1/IPChecker/bin/Debug/net5.0/IPChecker.runtimeconfig.dev.json
+/Users/chitboon/avp/P1/IPChecker/bin/Debug/net5.0/IPChecker.dll
+/Users/chitboon/avp/P1/IPChecker/bin/Debug/net5.0/ref/IPChecker.dll
+/Users/chitboon/avp/P1/IPChecker/bin/Debug/net5.0/IPChecker.pdb
+/Users/chitboon/avp/P1/IPChecker/obj/Debug/net5.0/IPChecker.csproj.AssemblyReference.cache
+/Users/chitboon/avp/P1/IPChecker/obj/Debug/net5.0/IPChecker.GeneratedMSBuildEditorConfig.editorconfig
+/Users/chitboon/avp/P1/IPChecker/obj/Debug/net5.0/IPChecker.AssemblyInfoInputs.cache
+/Users/chitboon/avp/P1/IPChecker/obj/Debug/net5.0/IPChecker.AssemblyInfo.cs
+/Users/chitboon/avp/P1/IPChecker/obj/Debug/net5.0/IPChecker.csproj.CoreCompileInputs.cache
+/Users/chitboon/avp/P1/IPChecker/obj/Debug/net5.0/IPChecker.dll
+/Users/chitboon/avp/P1/IPChecker/obj/Debug/net5.0/ref/IPChecker.dll
+/Users/chitboon/avp/P1/IPChecker/obj/Debug/net5.0/IPChecker.pdb
+/Users/chitboon/avp/P1/IPChecker/obj/Debug/net5.0/IPChecker.genruntimeconfig.cache

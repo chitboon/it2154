@@ -1,0 +1,15 @@
+/Users/chitboon/avp/T1/q5/bin/Debug/net5.0/q5.deps.json
+/Users/chitboon/avp/T1/q5/bin/Debug/net5.0/q5.runtimeconfig.json
+/Users/chitboon/avp/T1/q5/bin/Debug/net5.0/q5.runtimeconfig.dev.json
+/Users/chitboon/avp/T1/q5/bin/Debug/net5.0/q5.dll
+/Users/chitboon/avp/T1/q5/bin/Debug/net5.0/ref/q5.dll
+/Users/chitboon/avp/T1/q5/bin/Debug/net5.0/q5.pdb
+/Users/chitboon/avp/T1/q5/obj/Debug/net5.0/q5.csproj.AssemblyReference.cache
+/Users/chitboon/avp/T1/q5/obj/Debug/net5.0/q5.GeneratedMSBuildEditorConfig.editorconfig
+/Users/chitboon/avp/T1/q5/obj/Debug/net5.0/q5.AssemblyInfoInputs.cache
+/Users/chitboon/avp/T1/q5/obj/Debug/net5.0/q5.AssemblyInfo.cs
+/Users/chitboon/avp/T1/q5/obj/Debug/net5.0/q5.csproj.CoreCompileInputs.cache
+/Users/chitboon/avp/T1/q5/obj/Debug/net5.0/q5.dll
+/Users/chitboon/avp/T1/q5/obj/Debug/net5.0/ref/q5.dll
+/Users/chitboon/avp/T1/q5/obj/Debug/net5.0/q5.pdb
+/Users/chitboon/avp/T1/q5/obj/Debug/net5.0/q5.genruntimeconfig.cache

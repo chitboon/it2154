@@ -1,0 +1,15 @@
+/Users/chitboon/avp/P1/WebDownload/bin/Debug/net5.0/WebDownload.deps.json
+/Users/chitboon/avp/P1/WebDownload/bin/Debug/net5.0/WebDownload.runtimeconfig.json
+/Users/chitboon/avp/P1/WebDownload/bin/Debug/net5.0/WebDownload.runtimeconfig.dev.json
+/Users/chitboon/avp/P1/WebDownload/bin/Debug/net5.0/WebDownload.dll
+/Users/chitboon/avp/P1/WebDownload/bin/Debug/net5.0/ref/WebDownload.dll
+/Users/chitboon/avp/P1/WebDownload/bin/Debug/net5.0/WebDownload.pdb
+/Users/chitboon/avp/P1/WebDownload/obj/Debug/net5.0/WebDownload.csproj.AssemblyReference.cache
+/Users/chitboon/avp/P1/WebDownload/obj/Debug/net5.0/WebDownload.GeneratedMSBuildEditorConfig.editorconfig
+/Users/chitboon/avp/P1/WebDownload/obj/Debug/net5.0/WebDownload.AssemblyInfoInputs.cache
+/Users/chitboon/avp/P1/WebDownload/obj/Debug/net5.0/WebDownload.AssemblyInfo.cs
+/Users/chitboon/avp/P1/WebDownload/obj/Debug/net5.0/WebDownload.csproj.CoreCompileInputs.cache
+/Users/chitboon/avp/P1/WebDownload/obj/Debug/net5.0/WebDownload.dll
+/Users/chitboon/avp/P1/WebDownload/obj/Debug/net5.0/ref/WebDownload.dll
+/Users/chitboon/avp/P1/WebDownload/obj/Debug/net5.0/WebDownload.pdb
+/Users/chitboon/avp/P1/WebDownload/obj/Debug/net5.0/WebDownload.genruntimeconfig.cache

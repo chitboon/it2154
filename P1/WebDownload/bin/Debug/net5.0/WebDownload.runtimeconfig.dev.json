@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/Users/chitboon/.dotnet/store/|arch|/|tfm|",
+      "/Users/chitboon/.nuget/packages"
+    ]
+  }
+}
