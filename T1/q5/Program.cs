@@ -41,4 +41,10 @@ namespace CodeCombat
         }
     }
 
+    static void Main(String[] args)
+    {
+        Ogre o = new Ogre("StrongOne", 0, 0);
+        Console.WriteLine(o.name);
+    }
+
 }
