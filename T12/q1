@@ -1,0 +1,30 @@
+def firstn(n):
+    num = 0
+    nums = []
+    while num < n:
+        nums.append(num)
+        num += 1
+    return nums
+# generator
+def firstn1(n):
+    num = 0
+    while num < n:
+        yield num
+        num += 1
+
+def sum(nums):
+    result = 0
+    for num in nums:
+        result += num
+    return result
+
+sum_of_first_n = sum(firstn(1000000))
+sum_of_first_n1 = sum(firstn1(1000000))
+
+print (sum_of_first_n)
+print (sum_of_first_n1)
+
+one_to_ten = firstn1(10)
+
+print(list(one_to_ten))
+print(list(one_to_ten))

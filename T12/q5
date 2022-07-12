@@ -1,0 +1,25 @@
+def take(seq, n):
+    i = 0
+    for item in seq:
+        if i < n:
+            yield item
+            i = i + 1
+        else:
+            break
+
+
+class take(object):
+    def __init__(self, seq, n):
+        self.seq = seq
+        self.n = n
+        self.i = 0
+    def __iter__(self):
+        return self
+    def __next__(self):
+        return self.next()
+    def next(self):
+        if self.i < self.n:
+            self.i = self.i+1
+            return self.seq.__next__()
+        else:
+            raise StopIteration()

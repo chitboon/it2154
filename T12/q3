@@ -1,0 +1,19 @@
+def nat_generator():
+    i = 0
+    while True:
+        yield i
+        i = i + 1
+
+def take(seq, n):
+    i = 0
+    result = []
+    for item in seq:
+        if i < n:
+            result.append(item)
+            i = i + 1
+        else:
+            break
+    return result
+
+
+take(nat_generator(), 10)
